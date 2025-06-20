@@ -1,0 +1,5 @@
+RewriteEngine On
+
+# Si el archivo con .html existe, redirígelo aunque no lo escriban
+RewriteCond %{REQUEST_FILENAME}.html -f
+RewriteRule ^([^/]+)/?$ $1.html [L]

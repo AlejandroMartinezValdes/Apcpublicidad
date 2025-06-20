@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 224.4 201">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.04em;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        isolation: isolate;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #1d1d1b;
+        font-family: MyriadPro-Regular, 'Myriad Pro';
+        font-size: 55px;
+      }
+
+      .cls-2 {
+        fill: none;
+      }
+
+      .cls-4 {
+        fill: #fff;
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+    </style>
+  </defs>
+  <g id="Capa_2-2" data-name="Capa 2">
+    <rect class="cls-4" x=".5" y=".5" width="223.4" height="200"/>
+  </g>
+  <g id="Capa_1-2" data-name="Capa 1">
+    <g class="cls-2">
+      <text class="cls-1" transform="translate(46.35 113.31)"><tspan x="0" y="0">L</tspan></text>
+      <text class="cls-3" transform="translate(70.16 113.31)"><tspan x="0" y="0">OGO</tspan></text>
+    </g>
+  </g>
+</svg>
